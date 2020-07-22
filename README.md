@@ -23,7 +23,7 @@ This is a practical project in which the use of the local storage is evidenced, 
 External software intallation is not neccesary only needs a browser to run.
 
 ## Data base
-is no necesary because it uses local storage to store the reminders
+is no necesary because it uses local storage to store the courses
 
 ## Used technologies
 On the course it was used the technology below
